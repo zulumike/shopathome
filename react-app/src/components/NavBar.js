@@ -36,7 +36,7 @@ function NavBar(props) {
             Hometown
           </NavLink>
           <NavLink to="/products" activeClassName="active-link">
-            My List
+            My jallaList
           </NavLink>
           <NavLink to="/discounts" activeClassName="active-link">
             My Discounts
