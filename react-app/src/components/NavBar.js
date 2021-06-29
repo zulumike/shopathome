@@ -39,7 +39,7 @@ function NavBar(props) {
             My jallaList
           </NavLink>
           <NavLink to="/discounts" activeClassName="active-link">
-            My Discounts
+            My DiscountsMyAss
           </NavLink>
         </ul>
         {props.children}
