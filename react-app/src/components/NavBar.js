@@ -33,7 +33,7 @@ function NavBar(props) {
         <p className="menu-label">Menu</p>
         <ul className="menu-list">
           <NavLink to="/home" activeClassName="active-link">
-            Home
+            Hometown
           </NavLink>
           <NavLink to="/products" activeClassName="active-link">
             My List
